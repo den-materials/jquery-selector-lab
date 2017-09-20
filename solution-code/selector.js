@@ -7,7 +7,11 @@ function selector(selectString) {
 	} else {
 		foundItem = document.getElementsByTagName(selectString);
 	}
-	return foundItem;
+	if(foundItem.length !== 'undefined' && foundItem.length === 1) {
+		return foundItem[0];
+	} else {
+		return foundItem;
+	}
 }
 
 var selectedByTag = selector("h1");
