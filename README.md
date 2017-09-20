@@ -12,7 +12,7 @@ So by now, we know about the jQuery selector `$()`. Since jQuery is a Javascript
 
 ### Part One
 
-In squads, use a whiteboard to write one function that emulates the $ jQuery function using document.getElementById(), document.getElementsByClassName(), document.getElementsByTagName(), etc.  Have one person writing on the board, and one person suggesting tweaks.
+In squads, use a whiteboard to write one function that emulates the $ jQuery function using `document.getElementById()`, `document.getElementsByClassName()`, `document.getElementsByTagName()`, etc.  Have one person writing on the board, and one person suggesting tweaks.
 
 After 5 minutes, switch roles, so the other person is writing.
 
