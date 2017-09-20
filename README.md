@@ -8,6 +8,7 @@ So by now, we know about the jQuery selector `$()`. Since jQuery is a Javascript
 
 ## Instructions
 
+<!--WDI5 12:00 -->
 <!-- 11:50 15 minutes -->
 
 ### Part One
@@ -18,6 +19,7 @@ After 5 minutes, switch roles, so the other person is writing.
 
 <!--Ask devs how they will break up this problem -->
 
+<!--WDI5 12:10 -->
 <!--12:05 25 minutes -->
 
 ### Part Two
@@ -44,6 +46,7 @@ Use animations or transitions with your `Transform` button.
 
 -->
 
+<!--WDI5 12:22 going over solution, then questions -->
 <!-- 12:25 5 minutes -->
 
 ### Part Three
